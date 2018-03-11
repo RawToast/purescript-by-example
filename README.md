@@ -17,4 +17,3 @@ npm install -g purescript pulp bower
   * `pulp test`
 * Repl
   * `pulp repl`
-  * `./repl.sh`  
